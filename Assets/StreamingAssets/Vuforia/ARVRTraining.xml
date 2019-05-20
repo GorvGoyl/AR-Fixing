@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="removePaper" size="50.000000 50.000000" />
+    <ImageTarget name="unplugCord" size="50.000000 50.000000" />
+    <ImageTarget name="switchonpower" size="50.000000 50.000000" />
+    <ImageTarget name="plugthecord" size="50.000000 50.000000" />
+    <ImageTarget name="openCatridge" size="50.000000 50.000000" />
+    <ImageTarget name="congrats" size="50.000000 50.000000" />
+    <ImageTarget name="closeCatridge" size="50.000000 50.000000" />
+    <ImageTarget name="vuforia_stones_vergium" size="50.000000 35.000000" />
+    <ImageTarget name="FirstQRCode" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>

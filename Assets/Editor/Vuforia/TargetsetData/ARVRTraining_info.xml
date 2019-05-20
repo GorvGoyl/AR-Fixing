@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-08-19 16:07:50" name="drogon3d" targetId="d63ec7cc67704931bf339e0c0e4dc298" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2017-08-17 16:53:31" name="mug3d" targetId="7e8b5a437d1e442b9e4299a8a67ba7ca" version="2.0" />
+  </TargetSet>
+</QCARInfo>
