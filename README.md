@@ -2,11 +2,11 @@ Augmented Reality technology Superimposes virtual content on top of real-world o
 
 In maintenance field, AR could highlight a part to be replaced, identify special tools needed for the task, prescribe detailed work instructions, and display timely cautions about potentially hazardous activities and materials.
 
-### What is this repository for? ###
+## What is this repository for? ##
 This repository showcase the AR Android/iOS app which can be used for troubleshooting and fixing common device issues.
 Demo Video: https://youtu.be/8Cb0AE99fI4
 
-## How does the Android/iOS app work? ##
+### How does the Android/iOS app work? ###
 
 1) User opens the AR app.
 
